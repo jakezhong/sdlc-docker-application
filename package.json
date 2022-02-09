@@ -1,0 +1,23 @@
+{
+  "name": "sdlc-docker-application",
+  "version": "1.0.0",
+  "description": "Node.js application on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakezhong/sdlc-docker-application.git"
+  },
+  "author": "Jake Zhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakezhong/sdlc-docker-application/issues"
+  },
+  "homepage": "https://github.com/jakezhong/sdlc-docker-application#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
